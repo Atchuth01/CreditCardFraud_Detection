@@ -65,7 +65,7 @@ pip install -r requirements.txt
 2. Run the script:
 
 ```bash
-python fraud_detection.py
+python CreditCard_FraudDetection.py
 ```
 
 ### Files in the Repository
